@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package planerapp.user;
 
 /**
  *
  * @author nolde
  */
-public class PlanerMain {
+public class UserControl {
     
 }
