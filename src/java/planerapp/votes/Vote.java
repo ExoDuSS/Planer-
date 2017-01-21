@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package planerpp.votes;
+package planerapp.votes;
 
 import java.util.ArrayList;
 
-import planerpp.util.Date;
+import planerapp.util.Date;
 /**
  *
  * @author nolde
